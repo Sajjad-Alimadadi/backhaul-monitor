@@ -27,6 +27,9 @@
 
 ---
 
+<p align="center">
+  <img src="backhaul-monitor-install.jpg" alt="Installation Screenshot" width="350"/>
+</p>
 ## ⚡ نصب و اجرا - فقط روی سرور خارج
 
 با **curl**:
