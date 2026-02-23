@@ -25,6 +25,9 @@
 - 📤 **ارسال گزارش** به ربات تلگرام در بازه‌های زمانی دلخواه
 - ⚙️ **منوی تعاملی** برای مدیریت آسان
 
+<p align="center">
+  <img src="backhaul-monitor-install.jpg" alt="Installation Screenshot" width="350"/>
+</p>
 ---
 
 
