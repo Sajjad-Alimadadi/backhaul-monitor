@@ -26,7 +26,8 @@
 - ⚙️ **منوی تعاملی** برای مدیریت آسان
 
 <p align="center">
-  <img src="backhaul-monitor-install.jpg" alt="Installation Screenshot" width="350"/>
+  <img src="backhaul-monitor-install.jpg" alt="Installation Screenshot" width="200"/>
+  <img src="backhaul-monitor.jpg" alt="Installation Screenshot" width="200"/>
 </p>
 ---
 
